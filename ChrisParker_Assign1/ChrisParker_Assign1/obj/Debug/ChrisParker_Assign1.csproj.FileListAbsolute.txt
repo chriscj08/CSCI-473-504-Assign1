@@ -1,0 +1,14 @@
+c:\users\parker\source\repos\ChrisParker_Assign1\ChrisParker_Assign1\bin\Debug\ChrisParker_Assign1.exe.config
+c:\users\parker\source\repos\ChrisParker_Assign1\ChrisParker_Assign1\bin\Debug\ChrisParker_Assign1.exe
+c:\users\parker\source\repos\ChrisParker_Assign1\ChrisParker_Assign1\bin\Debug\ChrisParker_Assign1.pdb
+c:\users\parker\source\repos\ChrisParker_Assign1\ChrisParker_Assign1\obj\Debug\ChrisParker_Assign1.csprojAssemblyReference.cache
+c:\users\parker\source\repos\ChrisParker_Assign1\ChrisParker_Assign1\obj\Debug\ChrisParker_Assign1.csproj.CoreCompileInputs.cache
+c:\users\parker\source\repos\ChrisParker_Assign1\ChrisParker_Assign1\obj\Debug\ChrisParker_Assign1.exe
+c:\users\parker\source\repos\ChrisParker_Assign1\ChrisParker_Assign1\obj\Debug\ChrisParker_Assign1.pdb
+F:\Programs\ChrisParker_Assign1\ChrisParker_Assign1\bin\Debug\ChrisParker_Assign1.exe.config
+F:\Programs\ChrisParker_Assign1\ChrisParker_Assign1\bin\Debug\ChrisParker_Assign1.exe
+F:\Programs\ChrisParker_Assign1\ChrisParker_Assign1\bin\Debug\ChrisParker_Assign1.pdb
+F:\Programs\ChrisParker_Assign1\ChrisParker_Assign1\obj\Debug\ChrisParker_Assign1.csprojAssemblyReference.cache
+F:\Programs\ChrisParker_Assign1\ChrisParker_Assign1\obj\Debug\ChrisParker_Assign1.csproj.CoreCompileInputs.cache
+F:\Programs\ChrisParker_Assign1\ChrisParker_Assign1\obj\Debug\ChrisParker_Assign1.exe
+F:\Programs\ChrisParker_Assign1\ChrisParker_Assign1\obj\Debug\ChrisParker_Assign1.pdb
