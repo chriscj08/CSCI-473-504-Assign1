@@ -1,0 +1,7 @@
+C:\Users\Chrips\source\repos\Chris_Parker_Assign1\Chris_Parker_Assign1\bin\Debug\Chris_Parker_Assign1.exe.config
+C:\Users\Chrips\source\repos\Chris_Parker_Assign1\Chris_Parker_Assign1\bin\Debug\Chris_Parker_Assign1.exe
+C:\Users\Chrips\source\repos\Chris_Parker_Assign1\Chris_Parker_Assign1\bin\Debug\Chris_Parker_Assign1.pdb
+C:\Users\Chrips\source\repos\Chris_Parker_Assign1\Chris_Parker_Assign1\obj\Debug\Chris_Parker_Assign1.csprojAssemblyReference.cache
+C:\Users\Chrips\source\repos\Chris_Parker_Assign1\Chris_Parker_Assign1\obj\Debug\Chris_Parker_Assign1.csproj.CoreCompileInputs.cache
+C:\Users\Chrips\source\repos\Chris_Parker_Assign1\Chris_Parker_Assign1\obj\Debug\Chris_Parker_Assign1.exe
+C:\Users\Chrips\source\repos\Chris_Parker_Assign1\Chris_Parker_Assign1\obj\Debug\Chris_Parker_Assign1.pdb
